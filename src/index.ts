@@ -1,1 +1,1 @@
-console.log("Typescript Template Setup Correctly!");
+console.log('Typescript Template Setup Correctly!');
